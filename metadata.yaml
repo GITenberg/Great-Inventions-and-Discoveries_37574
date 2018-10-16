@@ -23,6 +23,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'T'
 - !lcsh 'Inventions'
+- GITenberg
 tableOfContents: 'Introduction -- The printing press -- The steam engine -- Electricity:
   the telegraph and the telephone -- Electricity: Lighting, transportation, and other
   uses -- The discovery of America -- Weapons and gunpowder -- Astronomical discoveries
